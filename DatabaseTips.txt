@@ -1,0 +1,28 @@
+Database Management Midterm Review Information:
+
+- Midterm Review Study Guide w/Solutions
+
+- Inserting into a file of sorted orders:
+	- 123 (INSERT AND SHIFT; BAD)
+	- 456 (APPEND TO THE END of overflow file; linear search on overflow)
+	- 789X -> 612 (Insert blank records; much less shifting (use blank areas,
+			only if small number of inserts(<n/3?)
+	- 888X -> 789
+	- 956X -> 
+
+
+1. ) ANSI-SPARC Three-Level Architecture
+	- Users/Views
+	- Conceptual Schema
+	- Internal Schema
+	- Physical Database
+
+2.) Traditional Two-Tier Client-Server
+	- Manages the interface
+	- Acc
+
+3.) Select, Cartesian, and Joins
+
+4.) Join operations slide very important
+	- Theta Join
+	- Equijoin (a particular type 
